@@ -1,0 +1,10 @@
+- Clear stand
+- Can use same topic for final essay (1.2k-1.5k words)
+- Avoid data collection, broad topics, descriptive topics
+- First half (200-300 words) should summarize the article (Only 1 of the 4-5 arguments in the article you are critiquing)
+- If you are agreeing with author, state objection and critique
+- Choose articles (From readings also can) that have strong arguments and are against your beliefs
+	- Look for readings with asterisk (\*)
+	- "This is what inequality looks like" does not provide arguments
+	- "Property rights and welfare redistribution" provides arguments
+- Clarity over using complicated terms
